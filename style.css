@@ -169,7 +169,8 @@ nav a:hover {
 }
 
 .menu-links.open {
-  max-height: 300px;
+  max-height: 500px;
+  background-color: var(--background-color);
 }
 
 .hamburger-icon.open span:first-child {
